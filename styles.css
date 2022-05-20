@@ -1,0 +1,27 @@
+* {
+    font-family: sans-serif;
+}
+
+h1 {
+    background-color: pink;
+    color: white;
+    font-size: 36px;
+    text-align: center;
+}
+
+ul.homepage {
+    font-size: 22px;
+}
+
+img {
+    height: auto;
+    width: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    color: pink;
+    font-size: 24px;
+}
